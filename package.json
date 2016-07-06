@@ -1,0 +1,11 @@
+{
+  "name": "urlshort",
+  "version": "1.0.0",
+  "description": "url shortener microservice for fcc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateusz Szymański",
+  "license": "MIT"
+}
