@@ -5,6 +5,9 @@ Schema = mongoose.Schema,
 urlSchema;
 
 urlSchema = new Schema({
+  _id: {
+    type: String
+  },
   original_url: {
     type: String,
     required: true
